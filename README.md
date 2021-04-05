@@ -1,2 +1,2 @@
 # github-demo
-simple demo from class
+simple demo to show workflow
